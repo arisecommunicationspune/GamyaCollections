@@ -174,7 +174,7 @@ export default function Footer() {
           <p className="text-sm">
             Copyright © 2025 <span className="text-[#A63C15] font-semibold ">Gamya Collections
               </span> All rights reserved. Design and developed
-            by <a href="https://www.arisedigitalsolutions.in/"  target="_blank" rel="noopener noreferrer" className="text-[#A63C15] font-semibold ">Arise Digital Solutions.</a>
+            by <a href="https://arisecommunications.co/"  target="_blank" rel="noopener noreferrer" className="text-[#A63C15] font-semibold ">Arise Communications.</a>
           </p>
         </div>
       </div>
