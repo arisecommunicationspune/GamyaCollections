@@ -2,11 +2,11 @@ import React from "react";
 
 const Video = () => {
   const images = {
-    video1: "/src/video/1.mp4",
-    video2: "/src/video/2.mp4",
-    video3: "/src/video/3.mp4",
-    video4: "/src/video/4.mp4",
-    video5: "/src/video/5.mp4",
+    video1: "/video/1.mp4",
+    video2: "/video/2.mp4",
+    video3: "/video/3.mp4",
+    video4: "/video/4.mp4",
+    video5: "/video/5.mp4",
   };
 
   return (
