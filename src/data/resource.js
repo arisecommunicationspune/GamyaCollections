@@ -17,7 +17,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+        "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -45,7 +45,7 @@ export const products = {
       rating: 4.3,
       reviews: 98,
       description:
-        "Elegant Lakshmi pendant necklace with intricate detailing. The Golden Lakshmi pendant is crafted with 22K gold plating and studded with premium gemstones.",
+        "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -73,7 +73,7 @@ export const products = {
       rating: 4.7,
       reviews: 152,
       description:
-        "Stunning ruby studded necklace with a classic design. The Ruby studded necklace is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -101,7 +101,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -129,7 +129,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -157,7 +157,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -184,7 +184,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -211,7 +211,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -238,7 +238,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -265,7 +265,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -293,7 +293,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -321,7 +321,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -349,7 +349,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -377,7 +377,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -405,7 +405,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -433,7 +433,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -461,7 +461,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -489,7 +489,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -517,7 +517,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -545,7 +545,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -573,7 +573,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -600,7 +600,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -627,7 +627,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -654,7 +654,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -681,7 +681,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -708,7 +708,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -735,7 +735,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -762,7 +762,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -789,7 +789,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -816,7 +816,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -843,7 +843,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -870,7 +870,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+        "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -897,7 +897,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -924,7 +924,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -951,7 +951,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+         "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -978,7 +978,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1005,7 +1005,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1032,7 +1032,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1059,7 +1059,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+  "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1089,7 +1089,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+          "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1117,7 +1117,7 @@ export const products = {
       rating: 4.3,
       reviews: 98,
       description:
-        "Elegant Lakshmi pendant necklace with intricate detailing. The Golden Lakshmi pendant is crafted with 22K gold plating and studded with premium gemstones.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1145,7 +1145,7 @@ export const products = {
       rating: 4.7,
       reviews: 152,
       description:
-        "Stunning ruby studded necklace with a classic design. The Ruby studded necklace is crafted with 22K gold plating and adorned with premium gemstones.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1173,7 +1173,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+                 "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1201,7 +1201,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+                 "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1229,7 +1229,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1257,7 +1257,7 @@ export const products = {
       rating: 4.2,
       reviews: 112,
       description:
-        "Classic emerald chain featuring a timeless design. The Emerald classic chain is crafted with 22K gold plating and adorned with premium gemstones.",
+                 "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1285,7 +1285,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1312,7 +1312,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1340,7 +1340,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1368,7 +1368,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1395,7 +1395,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1422,7 +1422,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1449,7 +1449,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1476,7 +1476,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                 "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1503,7 +1503,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1530,7 +1530,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1557,7 +1557,7 @@ export const products = {
       rating: 4.5,
       reviews: 128,
       description:
-        "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+                  "Stylish imitation earrings that combine trendy designs with lightweight comfort. Ideal for daily wear or special gatherings, they effortlessly add a touch of sophistication to your look.",
       specifications: [
         { name: "Material", value: "22K Gold Plated" },
         { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1629,7 +1629,7 @@ export const Necklaces = [
     rating: 4.5,
     reviews: 128,
     description:
-      "Exquisite handcrafted necklace featuring a delicate floral design. The Blossom bouquet flower necklace is adorned with premium gemstones and crafted with 22K gold plating for a luxurious finish.",
+      "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
     specifications: [
       { name: "Material", value: "22K Gold Plated" },
       { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1657,7 +1657,7 @@ export const Necklaces = [
     rating: 4.3,
     reviews: 98,
     description:
-      "Elegant Lakshmi pendant necklace with intricate detailing. The Golden Lakshmi pendant is crafted with 22K gold plating and studded with premium gemstones.",
+      "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
     specifications: [
       { name: "Material", value: "22K Gold Plated" },
       { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1685,7 +1685,7 @@ export const Necklaces = [
     rating: 4.7,
     reviews: 152,
     description:
-      "Stunning ruby studded necklace with a classic design. The Ruby studded necklace is crafted with 22K gold plating and adorned with premium gemstones.",
+      "This elegant imitation necklace set is crafted to enhance your beauty with timeless charm. Designed to match both traditional and modern outfits, it’s perfect for weddings, parties, and festive occasions.",
     specifications: [
       { name: "Material", value: "22K Gold Plated" },
       { name: "Gemstones", value: "Ruby, Emerald" },
@@ -1696,6 +1696,23 @@ export const Necklaces = [
     ],
     category: "Necklace",
   },
+];
+
+// resource.js
+
+export const careInstructions = [
+
+  "Avoid Moisture – Keep away from water, sweat, perfumes, and chemicals.",
+
+  "Last On, First Off – Wear your jewellery after applying makeup, lotions, or perfume, and remove it before sleeping, bathing, or exercising.",
+
+  "Storage – Always store in a cool, dry place. Use an airtight pouch/box and keep each piece separately to prevent scratches or tangling.",
+
+  "Cleaning – Gently wipe with a soft, dry cloth after every use to maintain its shine and remove residues.",
+
+  "Handling – Handle delicately; avoid bending, dropping, or rough use as imitation jewellery is fragile.",
+
+  
 ];
 
 
