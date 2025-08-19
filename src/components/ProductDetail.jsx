@@ -12,6 +12,7 @@ import {
   Truck,
 } from "lucide-react";
 import { products } from "@/data/resource";
+import { careInstructions } from "@/data/resource";
 import ProductCard from "./ProductCard";
 import WhatsAppEnquiryButton from "./WhatsAppEnquiryButton";
 
@@ -182,7 +183,7 @@ export default function ProductDetail() {
               </div>
 
               {/* Quantity Selector */}
-              <div className="mb-6 pb-6 border-b border-amber-100">
+              {/* <div className="mb-6 pb-6 border-b border-amber-100">
                 <h3 className="text-lg font-medium text-amber-900 mb-3">
                   Quantity
                 </h3>
@@ -203,7 +204,7 @@ export default function ProductDetail() {
                     +
                   </button>
                 </div>
-              </div>
+              </div> */}
 
               {/* Product Description */}
               <div className="mb-6 pb-6 border-b border-amber-100">
@@ -231,28 +232,22 @@ export default function ProductDetail() {
                 </div>
               </div>
 
-              {/* Product Specifications */}
-              <div className="mb-6">
-                <h3 className="text-lg font-medium text-amber-900 mb-3">
-                  Specifications
-                </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {product.specifications.map((spec, index) => (
-                    <div key={index} className="flex">
-                      <span className="text-gray-500 w-1/3">{spec.name}</span>
-                      <span className="text-gray-800 w-2/3">{spec.value}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
+{/* Care Instructions */}
+<div className="mb-6">
+  <h3 className="text-lg font-medium text-amber-900 mb-3">
+    Care Instructions
+  </h3>
+  <h6>To keep your jewellery shining for longer, please follow these tips:
+</h6>
+  <ul className="list-disc list-inside text-gray-700 space-y-2">
+    {careInstructions.map((item, index) => (
+      <li key={index}>{item}</li>
+    ))}
+  </ul>
+  <h6>✨ With proper care, your jewellery will stay radiant and beautiful for a long time.✨</h6>
+</div>
 
-              {/* Share Button */}
-              <div className="mt-6">
-                <button className="flex items-center text-amber-700 hover:text-amber-900">
-                  <Share2 size={18} className="mr-2" />
-                  Share this product
-                </button>
-              </div>
+             
             </div>
           </div>
         </div>
