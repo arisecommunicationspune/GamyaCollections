@@ -5,9 +5,6 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import {
   ArrowLeft,
-  Heart,
-  ShoppingCart,
-  Share2,
   Star,
   Truck,
 } from "lucide-react";
@@ -18,14 +15,13 @@ import WhatsAppEnquiryButton from "./WhatsAppEnquiryButton";
 
 // Flatten all products into a single array
 const flattenedProducts = Object.values(products).flat();
-console.log("params", flattenedProducts);
+
 export default function ProductDetail() {
   const navigate = useNavigate();
   const params = useParams();
   const router = useNavigate();
   const [product, setProduct] = useState(null);
   const [loading, setLoading] = useState(true);
-  // const [selectedImage, setSelectedImage] = useState(0)
   const [quantity, setQuantity] = useState(1);
   const [similarProducts, setSimilarProducts] = useState([]);
 
@@ -35,15 +31,11 @@ export default function ProductDetail() {
       once: true,
     });
 
-    // Find the product by ID
     const productId = Number(params.id);
     const foundProduct = flattenedProducts.find((p) => p.id === productId);
-    console.log("foundProduct", foundProduct.image);
 
     if (foundProduct) {
       setProduct(foundProduct);
-
-      // Find similar products (same category but different ID)
       const similar = flattenedProducts
         .filter(
           (p) =>
@@ -77,7 +69,6 @@ export default function ProductDetail() {
       </div>
     );
   }
-  console.log("productsss", product);
 
   return (
     <div className="min-h-screen bg-amber-50">
@@ -96,9 +87,9 @@ export default function ProductDetail() {
       <div className="container mx-auto px-4 py-8">
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 p-4 md:p-8">
-            {/* Product Images - Left Side (2 columns on large screens) */}
+            
+            {/* Product Images - Left Side */}
             <div className="lg:col-span-2" data-aos="fade-right">
-              {/* Main Image */}
               <div className="border border-amber-100 rounded-lg overflow-hidden mb-4">
                 <img
                   src={product?.image || "/placeholder.svg"}
@@ -106,40 +97,9 @@ export default function ProductDetail() {
                   className="w-full h-auto object-cover"
                 />
               </div>
-
-              {/* Thumbnail Images */}
-              {/* <div className="grid grid-cols-4 gap-2">
-                {product.images.map((image, index) => (
-                  <button
-                    key={index}
-                    onClick={() => setSelectedImage(index)}
-                    className={`border rounded-md overflow-hidden ${
-                      selectedImage === index ? "border-amber-600" : "border-gray-200"
-                    }`}
-                  >
-                    <img
-                      src={image || "/placeholder.svg"}
-                      alt={`${product.name} thumbnail ${index + 1}`}
-                      className="w-full h-auto object-cover"
-                    />
-                  </button>
-                ))}
-              </div> */}
-
-              {/* Action Buttons */}
-              <div className="grid grid-cols-1 m-auto">
-                {/* Enquiry Button */}
-                <WhatsAppEnquiryButton
-                  productName={product.name}
-                  productPrice={product.price}
-                  productUrl={window.location.href} // Use the current page URL
-                  quantity={quantity}
-                  phoneNumber="9137742517" // WhatsApp number to send the enquiry
-                />
-              </div>
             </div>
 
-            {/* Product Details - Right Side (3 columns on large screens) */}
+            {/* Product Details - Right Side */}
             <div className="lg:col-span-3" data-aos="fade-left">
               {/* Product Title and Rating */}
               <div className="mb-4">
@@ -183,7 +143,7 @@ export default function ProductDetail() {
               </div>
 
               {/* Quantity Selector */}
-              {/* <div className="mb-6 pb-6 border-b border-amber-100">
+              <div className="mb-6 pb-6 border-b border-amber-100">
                 <h3 className="text-lg font-medium text-amber-900 mb-3">
                   Quantity
                 </h3>
@@ -204,7 +164,20 @@ export default function ProductDetail() {
                     +
                   </button>
                 </div>
-              </div> */}
+              </div>
+
+              {/* WhatsApp Enquiry Button */}
+              <div className="mb-6 pb-6 border-b w-1/3 border-amber-100">
+                <WhatsAppEnquiryButton
+                  productName={product.name}
+                  productPrice={product.price}
+                  productUrl={window.location.href}
+                  quantity={quantity}
+                  phoneNumber="9137742517"
+                />
+              </div>
+
+           
 
               {/* Product Description */}
               <div className="mb-6 pb-6 border-b border-amber-100">
@@ -215,7 +188,7 @@ export default function ProductDetail() {
               </div>
 
               {/* Delivery Options */}
-              <div className="mb-6 pb-6 border-b border-amber-100">
+              <div className="mb-6 pb-2 ">
                 <h3 className="text-lg font-medium text-amber-900 mb-3">
                   Delivery Options
                 </h3>
@@ -231,27 +204,30 @@ export default function ProductDetail() {
                   </div>
                 </div>
               </div>
-
-{/* Care Instructions */}
-<div className="mb-6">
-  <h3 className="text-lg font-medium text-amber-900 mb-3">
-    Care Instructions
-  </h3>
-  <h6>To keep your jewellery shining for longer, please follow these tips:
-</h6>
-  <ul className="list-disc list-inside text-gray-700 space-y-2">
-    {careInstructions.map((item, index) => (
-      <li key={index}>{item}</li>
-    ))}
-  </ul>
-  <h6>✨ With proper care, your jewellery will stay radiant and beautiful for a long time.✨</h6>
-</div>
-
-             
             </div>
           </div>
+         </div>
+      
+          {/* Care Instructions - Full Width */}
+         <div className="container mt-10 bg-white rounded-lg shadow-md mx-auto px-4 py-8"> 
+        <div className=" overflow-hidden"></div>
+         
+            <h3 className="px-6 text-lg font-medium text-amber-900 mb-3">
+              Care Instructions
+            </h3>
+             <div className="px-6 py-4 border-t border-amber-100">
+            <h6>To keep your jewellery shining for longer, please follow these tips:</h6>
+            <ul className="list-disc list-inside text-gray-700 space-y-2 mt-2">
+              {careInstructions.map((item, index) => (
+                <li key={index}>{item}</li>
+              ))}
+            </ul>
+            <h6 className="mt-2">✨ With proper care, your jewellery will stay radiant and beautiful for a long time.✨</h6>
+          </div>
         </div>
-      </div>
+        </div>
+      
+        
 
       {/* Similar Products Section */}
       {similarProducts.length > 0 && (
