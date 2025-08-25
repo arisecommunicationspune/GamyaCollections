@@ -20,10 +20,10 @@ const Video = () => {
             autoPlay
             muted
             loop
-            className="w-full  md:w-full h-[400px] rounded-lg "
+            className="w-full  md:w-full h-[400px] rounded-lg"
           />
         </div>
-        <div className="flex justify-center  px-10 sm:px-0">
+        <div className="flex justify-center px-10 sm:px-0">
           <video
             src={images.video2}
             controls
